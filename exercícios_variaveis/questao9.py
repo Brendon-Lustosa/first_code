@@ -1,4 +1,4 @@
 n1 = int(input('Digite um número: '))
 n2 = int(input('Digite outro número: '))
 d = n1 / n2
-print('A soma dos número é de: {}'.format(d))
+print('A divisão dos números é de: {}'.format(d))

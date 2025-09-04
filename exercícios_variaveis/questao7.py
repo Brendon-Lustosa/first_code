@@ -1,4 +1,4 @@
 n1 = int(input('Digite um número: '))
 n2 = int(input('Digite outro número: '))
 sub = n1 - n2
-print('A soma dos número é de: {}'.format(sub))
+print('A subtração dos números é de: {}'.format(sub))
